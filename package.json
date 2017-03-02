@@ -1,0 +1,18 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "implement promise with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Armin Sheng",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
